@@ -1,0 +1,22 @@
+body{
+margin: 0;
+padding: 0;
+}
+.segundo{
+padding: 150px;
+
+}
+.row h2 span{
+color: brown;
+}
+.imagen{
+transition: all 2.5s ease;
+}
+.imagen :hover{
+transform: scale(1.5);
+}
+footer{
+padding-top: 3px;
+padding-bottom: 3px;
+font-size: 20px;
+}
